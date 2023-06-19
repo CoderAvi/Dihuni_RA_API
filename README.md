@@ -40,7 +40,7 @@ To allocate resources, send a POST request to the API endpoint URL using Postman
 
 ```json
 {
-  "resource_type": "t3.2xlarge",
+  "resource_type": "t2.micro",
   "quantity": 1,
   "user_info": {
     "name": "Avinash",
