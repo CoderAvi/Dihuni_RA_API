@@ -18,7 +18,7 @@ This is a Lambda function written in Python that provisions EC2 instances and al
 2. Create a new AWS Lambda function in the AWS Management Console.
 
 3. Configure the Lambda function:
-   - Runtime: Python 3.8
+   - Runtime: Python 3.9
    - Execution role: Choose an existing role with EC2 permissions or create a new one with the necessary permissions.
 
 4. Deploy the code to Lambda:
