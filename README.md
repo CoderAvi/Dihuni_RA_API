@@ -12,7 +12,7 @@ This is a Lambda function written in Python that provisions EC2 instances and al
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/CoderAvi/Dihuni_RA_API.git
    ```
 
 2. Create a new AWS Lambda function in the AWS Management Console.
